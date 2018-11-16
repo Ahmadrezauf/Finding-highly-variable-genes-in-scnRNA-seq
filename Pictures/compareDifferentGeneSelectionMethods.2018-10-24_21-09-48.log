@@ -1,0 +1,19 @@
+INFO [2018-10-24 21:09:48] $x
+INFO [2018-10-24 21:09:48] list(DifferentialExpression = diffExp.genes, BrenneckeHVG = hvgBrennecke.droplet, 
+INFO [2018-10-24 21:09:48]     PoissonHVG = droplet.PoissModel.hvg)
+INFO [2018-10-24 21:09:48] 
+INFO [2018-10-24 21:09:48] $filename
+INFO [2018-10-24 21:09:48] [1] "./Pictures/compareDifferentGeneSelectionMethods"
+INFO [2018-10-24 21:09:48] 
+INFO [2018-10-24 21:09:48] $imagetype
+INFO [2018-10-24 21:09:48] [1] "png"
+INFO [2018-10-24 21:09:48] 
+INFO [2018-10-24 21:09:48] $main
+INFO [2018-10-24 21:09:48] [1] "Compare genes selected in two methods for drop-seq data \n                               \n Brennecke threshold = 0.8 , DE threshold = 0.01 ,  \n                               Poisson threshold = 1.1"
+INFO [2018-10-24 21:09:48] 
+INFO [2018-10-24 21:09:48] $height
+INFO [2018-10-24 21:09:48] [1] 5000
+INFO [2018-10-24 21:09:48] 
+INFO [2018-10-24 21:09:48] $width
+INFO [2018-10-24 21:09:48] [1] 5500
+INFO [2018-10-24 21:09:48] 
